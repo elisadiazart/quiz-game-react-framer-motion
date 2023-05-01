@@ -1,5 +1,7 @@
+import Questions from "./components/questions/Questions";
+
 const App = () => {
-	return <h1>Núcleo de la aplicación</h1>;
+	return <Questions/>;
 };
 
 export default App;
