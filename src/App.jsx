@@ -1,7 +1,7 @@
-import Questions from "./components/questions/Questions";
+import Questions from './components/questions/Questions';
 
 const App = () => {
-	return <Questions/>;
+	return <Questions />;
 };
 
 export default App;
